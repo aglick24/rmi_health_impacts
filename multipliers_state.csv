@@ -1,0 +1,22 @@
+project,ma_sector,CO2e_per_million_dollars
+Clean Vehicle programs,"Gasoline Highway - Passenger Cars, Light Duty Vehicles, and Motorcycles",703.4362567
+Low Carbon Buses and Trucks,Diesel Highway - Heavy Duty Vehicles,727.9462654
+AHSC,"Gasoline Highway - Passenger Cars, Light Duty Vehicles, and Motorcycles",305.8490364
+AHSC,Dust - Paved Road Dust,
+Residential Energy Efficiency,Coal,300.4896449
+Residential Energy Efficiency,Natural Gas,2361.326364
+Residential Energy Efficiency,Petroleum,56.97241252
+Residential Energy Efficiency,Residential Natural Gas,2249.869304
+Residential Energy Efficiency,Residential Petroleum,1465.001922
+Commercial & Industrial Energy Efficiency,Coal,1851.43805
+Commercial & Industrial Energy Efficiency,Natural Gas,14549.08531
+Commercial & Industrial Energy Efficiency,Petroleum,351.0300408
+Commercial & Industrial Energy Efficiency,Commercial - Natural Gas,-1686.238939
+Commercial & Industrial Energy Efficiency,Commercial - Petroleum,-335.9571635
+Battery Storage,Coal,95.36097061
+Battery Storage,Natural Gas,749.3714936
+Battery Storage,Petroleum,18.08030542
+Community Microgrids,Coal,112.4790551
+Community Microgrids,Natural Gas,883.8898864
+Community Microgrids,Petroleum,21.32587007
+Community Microgrids,Commercial - Natural Gas,1207.628979
